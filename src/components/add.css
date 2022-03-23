@@ -1,0 +1,27 @@
+.add-heading {
+  text-align: center;
+  color: blue;
+}
+
+.my-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-field {
+  margin: 10px 0;
+}
+
+.add-btn {
+  background-color: blue;
+  border: none;
+  padding: 5px 12px;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}
